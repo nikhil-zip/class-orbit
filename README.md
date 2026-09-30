@@ -3,7 +3,7 @@
 ### Full-Stack Education Platform
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://class-orbit.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)](https://github.com/nikhil-mca-code/class-orbit)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge\&logo=github)](https://github.com/nikhil-zip/class-orbit)
 
 ---
 
@@ -159,6 +159,7 @@ class-orbit/
 │   ├── middleware/
 │   ├── models/
 │   ├── routes/
+│   ├── services/
 │   ├── payment/
 │   ├── utils/
 │   ├── server.js
@@ -172,6 +173,12 @@ class-orbit/
 │   ├── index.html
 │   ├── login.html
 │   ├── register.html
+│   ├── plan-purchase.html
+│   ├── student.html
+│   ├── team.html
+│   ├── terms.html
+│   ├── privacy.html
+│   ├── forgot-password.html
 │   ├── student-dashboard.html
 │   ├── teacher-dashboard.html
 │   └── admin.html
@@ -188,7 +195,7 @@ class-orbit/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/nikhil-mca-code/class-orbit.git
+git clone https://github.com/nikhil-zip/class-orbit.git
 ```
 
 ### Navigate to the Project
@@ -207,7 +214,7 @@ npm install
 ### Configure Environment Variables
 
 ```bash
-cp .env.example .env
+cp backend/.env.example backend/.env
 ```
 
 ### Start Development Server
@@ -461,7 +468,7 @@ Software Development Intern • Full-Stack Developer • Founder @ Gorakhpur Web
 <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/nikhil-mca-code">
+<a href="https://github.com/nikhil-zip">
 <img src="https://img.shields.io/badge/GitHub-nikhil--mca--code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
