@@ -18,14 +18,13 @@ Install:
 ## Step 1: Clone Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/nikhil-zip/class-orbit.git
 ```
 
 Move into project:
 
 ```bash
-cd output_site
-```
+cd class-orbit
 
 ---
 
